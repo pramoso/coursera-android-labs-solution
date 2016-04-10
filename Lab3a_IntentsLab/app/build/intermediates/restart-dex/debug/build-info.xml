@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="7"
+    timestamp="570777131737391"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="157" />
+    <task
+        name="instant-run-dex"
+        duration="849" />
+    <task
+        name="instant-run-transform"
+        duration="53" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab3a_IntentsLab\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="570297954733642" >
+        <artifact
+            location="D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab3a_IntentsLab\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="570777131737391"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab3a_IntentsLab\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
