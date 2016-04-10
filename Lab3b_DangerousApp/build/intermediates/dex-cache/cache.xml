@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab3b_DangerousApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f206afd0f1ac3a1e9a02e91b601d64a6802ad8e">
+        <dex dex="D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab3b_DangerousApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_32a5f3628251fb34fd0c3601d42812562f7ba100.jar" />
+    </item>
+
+</items>
