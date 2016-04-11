@@ -1,0 +1,2 @@
+CHANGED,D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab3c_FragmentsLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab3c_FragmentsLab\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\fragmentslab\FriendsFragment$override.class
