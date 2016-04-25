@@ -1,0 +1,4 @@
+CHANGED,D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\todomanager\ToDoListAdapter$override.class
+CHANGED,D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\todomanager\ToDoListAdapter$1$override.class
+CHANGED,D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\course\labs\todomanager\ToDoManagerActivity$override.class
+CHANGED,D:\AndroidStudioProjects\Coursera\coursera-android-labs-solution\Lab4_UILabs\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
